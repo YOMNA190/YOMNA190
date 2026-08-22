@@ -1,58 +1,53 @@
-# Hi there, I'm Yomna Ali 👋
+# Yomna Ali
 
-### 🚀 Full-Stack Developer | Media Buyer | Creative Problem Solver
+### Frontend Developer · Digital Experience Builder · Media Buyer
 
-I am a passionate and results-driven **Full-Stack Developer** with a unique blend of technical expertise and strategic marketing acumen as a **Media Buyer**. My approach to development is rooted in solving complex problems with elegant, scalable, and user-centric web applications. I thrive on transforming innovative ideas into robust digital solutions that drive business growth and enhance user experiences.
+I build polished, responsive web experiences that connect strong visual design with clear business goals. My work focuses on React and TypeScript interfaces, local-business landing pages, product experiences, and conversion-oriented digital presence.
 
----
+I care about clean presentation, mobile-first usability, practical SEO, and shipping interfaces that are easy to understand and maintain.
 
-### 🛠️ Tech Stack & Skills
+## What I work with
 
-**Frontend:** Next.js 14/15, React 19, TypeScript, Tailwind CSS, Framer Motion, Three.js, HTML, CSS, JavaScript
-**Backend & Database:** Node.js, Express, Prisma ORM, PostgreSQL, MongoDB, Supabase
-**Marketing & Analytics:** Strategic Media Buying, Ad Campaigns Optimization, SEO, Data Analysis
-**Tools & Platforms:** Git/GitHub, Docker, Vite, Vercel, Railway, ESLint, Prettier
+| Area | Tools and practices |
+|---|---|
+| Frontend | React, TypeScript, JavaScript, Next.js, Vite |
+| UI and styling | Tailwind CSS, responsive design, component systems, motion and interaction design |
+| Product foundations | Supabase, PostgreSQL, authentication flows, dashboards, form validation |
+| Delivery | Git and GitHub, Vercel, Railway, ESLint, Prettier |
+| Growth | Local SEO, landing-page structure, Google Ads conversion tracking, campaign optimization |
 
----
+## Selected work
 
-### 📂 Featured Projects
+### [Yomna Portfolio](https://github.com/YOMNA190/yomna-portfolio)
+A creative portfolio focused on clear storytelling, visual hierarchy, and modern frontend interactions.
 
-#### [Darak](https://github.com/YOMNA190/Darak)
+### [Riyadh Plumbing Ultimate](https://github.com/YOMNA190/riyadh-plumbing-ultimate)
+A conversion-focused service website for plumbing and drain-cleaning services in Riyadh, with local-search and contact journeys in mind.
 
-A luxury interior design & finishing platform, showcasing modern web development practices. This project demonstrates proficiency in building sophisticated user interfaces and integrating backend services for a seamless experience.
+### [Riyadh Compressor Landing](https://github.com/YOMNA190/riyadh-compressor-landing)
+A responsive local-business landing page for compressor services, built around direct service messaging and contact actions.
 
-*   **Technologies:** Next.js, React, TypeScript, Tailwind CSS, Framer Motion, Supabase, PostgreSQL, Chart.js, bcryptjs, jsonwebtoken
-*   **Key Features:** User authentication, dynamic content display, interactive UI/UX, database integration.
+### [PS Lounge SaaS v4](https://github.com/YOMNA190/ps-lounge-saas-v4)
+A PlayStation lounge management product concept with a dashboard-oriented interface and Supabase-backed foundations.
 
-#### [Alhadi Platform](https://github.com/YOMNA190/alhadi-platform)
+### [Arabic Academy](https://github.com/YOMNA190/arabic-academy)
+An interactive Arabic-language learning experience built for engaging, responsive educational content.
 
-A modern educational/service platform built with React, focusing on delivering an intuitive and engaging user experience. This project highlights skills in frontend development and creating interactive web applications.
+### [AURA Skincare](https://github.com/YOMNA190/AURA-Skincare-Website)
+A premium skincare e-commerce experience with a product-focused visual direction.
 
-*   **Technologies:** React, JavaScript, HTML, CSS
-*   **Key Features:** Responsive design, component-based architecture, user-friendly interface.
+### [DARAK Digital Presence](https://github.com/YOMNA190/DARAK-Digital-Presence)
+A premium digital presence for an interior-design and finishing brand, combining brand presentation with lead-generation structure.
 
-#### [Arabic Academy](https://github.com/YOMNA190/arabic-academy)
+## Current focus
 
-An interactive learning environment developed using Vite and React. This project emphasizes fast development workflows and building dynamic, educational web applications.
+- Building production-ready React and TypeScript experiences.
+- Improving accessibility, performance, SEO, and conversion journeys.
+- Turning repeated experiments into a smaller set of documented, maintainable products.
 
-*   **Technologies:** Vite, React, JavaScript, HTML, CSS
-*   **Key Features:** Rapid development, interactive learning modules, modern build tooling.
+## Contact
 
----
+- Email: [ayomna265@gmail.com](mailto:ayomna265@gmail.com)
+- GitHub: [YOMNA190](https://github.com/YOMNA190)
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOMNA190&show_icons=true&theme=radical&locale=en" alt="Yomna GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOMNA190&layout=compact&theme=radical&locale=en" alt="Top Langs" />
-</p>
-
----
-
-### 📫 Connect with me
-
-- 📧 Email: ayomna265@gmail.com
-- 🌍 Location: Qena, Egypt 🇪🇬
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-
-*"Turning complex problems into elegant digital solutions that drive real-world impact."*
+> Good interfaces make complex ideas feel simple.
